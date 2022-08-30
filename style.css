@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+    background-image: linear-gradient(to right, salmon, darkblue);
+}
+
+* {
+    font-size: xx-large;
+}
